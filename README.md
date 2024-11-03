@@ -1,5 +1,6 @@
 Demonstrates basic TH failures with nixpkgs static infra.
 
+Issue: https://github.com/NixOS/nixpkgs/issues/275304
 
 ```
 $ nix build
